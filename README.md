@@ -1,4 +1,4 @@
-# `boundary` is a lightweight utility for handling error declaratively
+# `boundary` is a lightweight utility for handling errors declaratively
 
 ```
 import boundary from 'boundary';
@@ -35,7 +35,7 @@ const result = myboundary('FooRiskyCall', doRiskyCall(), default_value);
 ```
 
 ## Future
-In the future decorators will be added to streamline usage.
+In the future, decorators will be added to streamline usage.
 ```
 @boundary('FooRiskyCall', default_value)
 doRiskyCall()
