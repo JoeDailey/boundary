@@ -4,6 +4,9 @@
   "description": "Declarative Error Handling",
   "main": "boundary.ts",
   "author": "Joseph Dailey",
+  "repository": {
+    "url": "https://github.com/JoeDailey/boundary"
+  },
   "license": "MIT",
   "private": false,
   "devDependencies": {
