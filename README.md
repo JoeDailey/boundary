@@ -1,4 +1,4 @@
-# `boundary` is a lightweight utility for handling errors declaratively
+# `boundary` is Lightweight Declarative Error Handling
 
 ```
 import boundary from 'boundary';
